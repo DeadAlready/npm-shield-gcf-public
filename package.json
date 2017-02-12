@@ -1,0 +1,27 @@
+{
+  "name": "npm-shield-gcf-public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeadAlready/npm-shield-gcf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeadAlready/npm-shield-gcf-public/issues"
+  },
+  "homepage": "https://github.com/DeadAlready/npm-shield-gcf-public#readme",
+  "dependencies": {
+    "gcloud": "^0.34.0",
+    "length-stream": "^0.1.1",
+    "pass-stream": "^0.1.5",
+    "request": "^2.72.0",
+    "tar": "^2.2.1"
+  }
+}
